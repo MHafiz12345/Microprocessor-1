@@ -1,9 +1,3 @@
-// Author:   Muhammad Hafiz      
-// Net ID:   muhammadhafiz
-// Date:       04 February 2025    
-// Assignment:     Lab 1
-//----------------------------------------------------------------------//
-
 // This prevents the header from being included multiple times
 #ifndef SWITCH_H
 #define SWITCH_H
